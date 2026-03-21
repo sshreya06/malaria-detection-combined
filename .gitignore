@@ -1,0 +1,60 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+
+# MATLAB
+*.asv
+*.m~
+slprj/
+
+# Data files (large files you don't want in git)
+datasets/*.csv
+datasets/*.zip
+*.h5
+*.hdf5
+
+# Model files (can be large)
+models/*.h5
+models/*.pkl
+models/*.joblib
+*.pb
+
+# Results/Output
+results/*.png
+results/*.jpg
+results/*.jpeg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
