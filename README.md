@@ -203,10 +203,9 @@ All figures generated in `paper_figures/`:
 
 | Name | Role | Email |
 |---|---|---|
-| Dr. Sharmila Joseph | Professor (Supervisor) | sharmila.joseph@vitbhopal.ac.in |
 | Vanshika Jain | Student (22BCE10113) | vanshikasjain@gmail.com |
 | Shreya Saniya | Student (22BCE10136) | saniyashreya04@gmail.com |
-| Yash Singh | Student (22BCE11083) | yashsingh11083@gmail.com |
+
 
 ---
 
